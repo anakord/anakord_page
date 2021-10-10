@@ -1,0 +1,13 @@
+@font-face {
+   font-family: PixelTimes;
+   src: url(../fonts/PixelTimes.ttf);
+}
+@font-face {
+   font-family: PixelTimesBold;
+   src: url(../fonts/PixelTimesBold.ttf);
+}
+
+@font-face {
+   font-family: long_pixel;
+   src: url(../fonts/long_pixel.ttf);
+}
